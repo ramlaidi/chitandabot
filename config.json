@@ -1,13 +1,13 @@
 {
-  "ownerNumber": ["62xxxx@s.whatsapp.net"],
-  "ownerName": ["r"],
-  "botName": "Chitanda Eru Bot",
-  "sessionName": "rtwone-md",
+  "ownerNumber": ["27692574469@s.whatsapp.net"],
+  "ownerName": ["`𝑺𝒂𝒏𝑼𝒉𝒖𝒚"],
+  "botName": "`𝑺𝒂𝒏Bot-Md",
+  "sessionName": "san-md",
   "pathimg": "./media/Chitanda.jpg",
   "gamewaktu": 90,
   "limitCount": 25,
   "gcount": {
-	"prem": 35,
+	"prem": 99999999999,
 	"user": 15
   }
 }
